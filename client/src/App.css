@@ -1,0 +1,51 @@
+.App {
+  text-align: center; 
+}
+
+.App-header {
+  background-color: rgb(255, 255, 255);
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: small;
+  font-weight: 500;
+  color: #000;
+  
+}
+
+.navbar{
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+  background-color: rgb(7, 2, 34); 
+  font-size: medium;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: right;
+  color: #000;
+  width: 100%;
+  position: fixed;
+  }
+
+  .tab{
+    padding-top: 2vh;
+    background-color: rgb(229, 184, 250);
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+  }
+
+    /* .tab.tr:nth-child(even){
+      background-color:#dd0f0f;
+    } */
+
+ 
+  
+
+
+  
+
+
+
